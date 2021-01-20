@@ -1,6 +1,9 @@
 # CHANGELOG
 
 ## 0.2.2
+* Updating frodata gem
+
+## 0.2.2
 
 * Switching to frodata gem
 * Make headers configurable, remove default accept header
